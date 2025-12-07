@@ -1,3 +1,5 @@
+https://business.01.ai/console/agent/share/p-Z0FBQUFBQnBOV0c1WEc0ZTM0OHMzMkNveXNpamdLTHlnNGd1c0dxLTlsRTlOTEZoZ0hzTVhSNWgteG9Jb1RyaXdKWF84dlF3blFnRVNIWXA0cFVLeHNJbndiNWFHTk5RclpsTEwybDl3bkhpMERtUjBCTnBMbU5nYW4wZ1VxdXlHcGtTTzdtd3kxcEU=
+
 「竞品雷达」智能分析仪表盘 - 落地方案
 一、核心Prompt结构设计
 【角色设定】
